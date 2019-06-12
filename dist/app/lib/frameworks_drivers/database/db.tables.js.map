@@ -1,0 +1,1 @@
+{"version":3,"file":"db.tables.js","sourceRoot":"","sources":["../../../../../src/app/lib/frameworks_drivers/database/db.tables.ts"],"names":[],"mappings":";;AAAA,iBAAiB;AACjB,6BAA6B;AAQhB,QAAA,SAAS,GAAG,UAAS,GAAuB;IACvD,MAAM,MAAM,GAAW;QACrB,OAAO,EAAE,GAAG,CAAC,MAAM,CAAC,IAAI,CAAC,IAAI,CAAC,SAAS,EAAE,WAAW,CAAC,CAAC;KACvD,CAAC;IACF,OAAO,MAAM,CAAC;AAChB,CAAC,CAAC"}
